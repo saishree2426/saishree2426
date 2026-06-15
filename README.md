@@ -1,16 +1,36 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Saishree L
+🎓 CSE (Data Science) Student | Exploring Data, AI & Software Development ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) 
 ===================================================================================================================================
 
-Frontend Developer
+
 ------------------
+# Hi there, I'm Saishree 👋
 
-To pursue a challenging role that allows me to expand my knowledge, strengthen my technical
+🎓 BE in Computer Science & Engineering (Data Science) student passionate about transforming data into meaningful insights and building technology-driven solutions.
 
-skills, and explore innovative solutions. I aim to begin my career with an entry-level opportunity
+I enjoy exploring **Data Analytics, Machine Learning, Database Management Systems, and Software Development**. Whether it's analyzing datasets, developing applications, or learning new technologies, I'm always eager to learn, improve, and take on new challenges.
 
-where I can apply the concepts learned during my academic journey and contribute to the success
+### 🌱 Currently Learning
 
-of the organization
+* Java
+* DBMS
+* Machine Learning
+* Data Visualization Techniques
+* Data Science Concepts
+
+### 🎯 Areas of Interest
+
+* Data Analytics
+* Machine Learning & AI
+* Data Visualization
+* Software Development
+* Database Management
+
+### 📫 Connect With Me
+
+* Email: [saishreel2005@gmail.com](mailto:saishreel2005@gmail.com)
+
+*"Turning data into insights, ideas into projects, and challenges into learning opportunities."*
+
 
 * 🌍  I'm based in Bengaluru City
 * ✉️  You can contact me at [saishreel2005@gmail.com](mailto:saishreel2005@gmail.com)
